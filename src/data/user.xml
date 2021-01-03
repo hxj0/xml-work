@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user ID="001">
+		<username>admin</username>
+		<password>123</password>
+		<iconpath>D:/eclipse-workspace/xml-work/bin/statics/default.jpg</iconpath>
+	</user>
+	<user ID="002">
+		<username>aa</username>
+		<password>aa</password>
+		<iconpath>D:/eclipse-workspace/xml-work/bin/statics/default.jpg</iconpath>
+	</user>
+	<user ID="003">
+		<username>ss</username>
+		<password>ss</password>
+		<iconpath>D:\eclipse-workspace\xml-work\icon\0.9565860252391626308e.jpg</iconpath>
+	</user>
+	<user ID="004">
+		<username>cc</username>
+		<password>cc</password>
+		<iconpath>D:\eclipse-workspace\xml-work\icon\0.6179997317006586528c.jpg</iconpath>
+	</user>
+</users>

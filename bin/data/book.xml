@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+	<book ID="1">
+		<name>白夜行</name>
+		<author>东野圭吾</author>
+		<publishDate>2008-11-3</publishDate>
+		<price>30.0</price>
+		<description>世界上有两种东西不可直视，一是太阳，一是人心。</description>
+		<coverUrl/>
+	</book>
+	<book ID="2">
+		<name>三体1:地球往事</name>
+		<author>刘慈欣</author>
+		<publishDate>2011-11-10</publishDate>
+		<price>30.99</price>
+		<description>文革、地球三体组织。</description>
+		<coverUrl>D:\eclipse-workspace\xml-work\cover\0.7093590655818106三体.jpg</coverUrl>
+	</book>
+	<book ID="3">
+		<name>天下第九</name>
+		<author>鹅是老五</author>
+		<publishDate>2011-10-10</publishDate>
+		<price>30.0</price>
+		<description>九为至尊。</description>
+		<coverUrl/>
+	</book>
+	<book ID="4">
+		<name>围城</name>
+		<author>钱钟书</author>
+		<publishDate>2010-11-10</publishDate>
+		<price>30.0</price>
+		<description>城里的人想出来，城外的人想进去。</description>
+		<coverUrl/>
+	</book>
+	<book ID="5">
+		<name>百年孤独</name>
+		<author>马尔克斯</author>
+		<publishDate>2009-8-8</publishDate>
+		<price>55.11</price>
+		<description>百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独百年孤独</description>
+		<coverUrl/>
+	</book>
+	<book ID="6">
+		<name>龙族</name>
+		<author>江南</author>
+		<publishDate>2017-11-8</publishDate>
+		<price>0.0</price>
+		<description>屠龙之战</description>
+		<coverUrl/>
+	</book>
+	<book ID="7">
+		<name>Linux0.11内核</name>
+		<author>林纳斯</author>
+		<publishDate>2011-12-10</publishDate>
+		<price>40.0</price>
+		<description>学习linux必备</description>
+		<coverUrl>D:\eclipse-workspace\xml-work\cover\0.3658165959642633百年孤独.jpg</coverUrl>
+	</book>
+	<book ID="8">
+		<name>三体2</name>
+		<author>刘慈欣</author>
+		<publishDate>2011-09-18</publishDate>
+		<price>34.88</price>
+		<description>每个文明都是带枪的猎人</description>
+		<coverUrl>D:\eclipse-workspace\xml-work\cover\0.38554073044752024s28823471.jpg</coverUrl>
+	</book>
+</books>
